@@ -12,8 +12,22 @@
 - ✅ Guard-based authentication with Laravel’s built-in auth system
 - ✅ Easy-to-configure and scalable authentication structure
 
+- You can clone or download the zipfile after that extracted and paste the pest the folder you want.
+- Make the .env file through .env.example
+- Run the following commands
 
-**With Multi-Auth in Laravel, you can build secure, robust, and scalable applications with role-specific permissions, ensuring a smooth user experience.**
+````
+composer update
+````
+````
+php artisan migrate
+````
+````
+php artisan serve
+````
+
+**If you want to install then follow some steps which your help to understand the laravel implementation process**
+- Run command and get clean fresh laravel new application.
 
 - ✅ Install Laravel new application
 
