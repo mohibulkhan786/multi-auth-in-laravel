@@ -565,16 +565,16 @@ class CreateUsersSeeder extends Seeder
 
     }
 }
-    ````
+````
 
- - ✅  Now let's run seeder htrough php artisan command:
+ - Now let's run seeder htrough php artisan command:
 
  ````
  php artisan db:seed --class=CreateUsersSeeder
  ````
 
- - ✅ All the required steps have been done, now you have to type the given below command and hit enter to run the Laravel app:
+ - All the required steps have been done, now you have to type the given below command and hit enter to run the Laravel app:
 
 ````
  php artisan serve
- ````
+````
